@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 10 Jun 2022 17:06:02 at https://easetemplate.com/borrow/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://easetemplate.com/borrow/index.html -O1 "C:\Users\Lenovo\Downloads\new-website-2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:06:40	Error: 	"Not Found" (404) at link https://easetemplate.com/borrow/assets/images/apple-touch-icon.png (from https://easetemplate.com/borrow/index.html)
+17:06:40	Error: 	"Not Found" (404) at link https://easetemplate.com/borrow/assets/images/favicon-32x32.png (from https://easetemplate.com/borrow/index.html)
+17:06:40	Error: 	"Not Found" (404) at link https://easetemplate.com/borrow/assets/images/favicon-16x16.png (from https://easetemplate.com/borrow/index.html)
+17:07:46	Error: 	"Not Found" (404) at link https://easetemplate.com/borrow/blog-single.html (from https://easetemplate.com/borrow/index.html)
+17:07:53	Error: 	"Not Found" (404) at link https://easetemplate.com/borrow/pages/index.html (from https://easetemplate.com/borrow/pages/landing-page-card.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 51 seconds : 319 links scanned, 313 files written (36116726 bytes overall) [31834091 bytes received at 286793 bytes/sec], 6306842 bytes transferred using HTTP compression in 158 files, ratio 28%, 45.5 requests per connection
+(5 errors, 0 warnings, 0 messages)

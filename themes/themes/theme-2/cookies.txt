@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+easetemplate.com	TRUE	/	FALSE	1999999999	PHPSESSID	b20cbc73e40fb1d9e5d8d0eef9219453
+
